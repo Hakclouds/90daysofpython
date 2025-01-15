@@ -6,6 +6,5 @@ sum_of_numbers = sum(numbers)
 
 average = sum_of_numbers / len(numbers)
 
-# Step 4: Print the sum and average
 print("Sum:", sum_of_numbers)
 print("Average:", average)
